@@ -38,8 +38,8 @@ $ npm run build
 * [Observer](Behavioral/Observer)
 * [Strategy](Behavioral/Strategy)
 
-## 參考 github
+## Reference github
  - [typescript-must-know by wahengchang](https://github.com/wahengchang/typescript-must-know)
  
-## 參考文章
+## Reference article
  - [Using Jest with TypeScript](https://basarat.gitbooks.io/typescript/docs/testing/jest.html)
