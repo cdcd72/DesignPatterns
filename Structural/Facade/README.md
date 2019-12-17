@@ -7,6 +7,7 @@
 
 ## 類別圖
 ![Image](https://i.imgur.com/MXHoKhu.png)
+---
 ![Image](https://i.imgur.com/BLbysvc.png)
 
 ## 值得注意什麼？
