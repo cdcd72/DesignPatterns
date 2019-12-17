@@ -21,9 +21,6 @@
 ```
 $ npm run test SimpleFactory
 ```
-## 參考 github
- - [typescript-must-know by wahengchang](https://github.com/wahengchang/typescript-must-know)
- 
+
 ## 參考文章
- - [Using Jest with TypeScript](https://basarat.gitbooks.io/typescript/docs/testing/jest.html)
  - [簡單工廠模式 SimpleFactory](https://skyyen999.gitbooks.io/-study-design-pattern-in-java/content/simpleFactory.html)

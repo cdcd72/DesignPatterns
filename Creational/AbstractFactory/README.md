@@ -5,8 +5,8 @@
 ## 舉例
 若以**動物收容所**為例子，我很想**領養動物**，但其實我**並不是很在意是貓或者是狗**，而且動物**也需要穿上衣服及鞋子**。
 
-(補充例子)
-若我想建立一棟房子，但也請把所有傢俱一併產生出來。(帶有傢俱的房子)
+(補充例子)  
+若我想建立一棟房子，但也請把所有傢俱一併產生出來。(帶有傢俱的房子)  
 若我想訓練一名士兵，但也請把裝備一併產生出來。(帶有裝備的士兵)
 
 ## 類別圖
@@ -28,11 +28,7 @@
 $ npm run test AbstractFactory
 ```
 
-## 參考 github
- - [typescript-must-know by wahengchang](https://github.com/wahengchang/typescript-must-know)
- 
 ## 參考文章
- - [Using Jest with TypeScript](https://basarat.gitbooks.io/typescript/docs/testing/jest.html)
  - [抽象工廠模式 Abstract Factory Pattern 1](https://skyyen999.gitbooks.io/-study-design-pattern-in-java/content/abstractFactory1.html)
  - [抽象工廠模式 Abstract Factory Pattern 2](https://skyyen999.gitbooks.io/-study-design-pattern-in-java/content/abstractFactory2.html)
  - [設計模式 - 工廠方法及抽象工廠](https://blog.techbridge.cc/2017/05/22/factory-method-and-abstract-factory/)
