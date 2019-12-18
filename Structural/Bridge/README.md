@@ -19,6 +19,5 @@ $ npm run test Bridge
 ```
 
 ## 參考文章
- - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
  - [橋接模式 (Bridge Pattern)](http://corrupt003-design-pattern.blogspot.com/2017/01/bridge-pattern.html)
  - [你的東西就是我的東西！ - 橋接模式 ( Bridge Pattern )](https://ithelp.ithome.com.tw/articles/10207956?sc=iThelpR)

@@ -21,22 +21,25 @@ $ npm run build
 ```
 
 ## Patterns
+點擊 [:notebook:](http://en.wikipedia.org/wiki/Software_design_pattern) 可看到於維基百科(wikipedia)上關於 Patterns 完整的解釋。
+
 ### [Creational](Creational)
 
-* [AbstractFactory](Creational/AbstractFactory)
-* [FactoryMethod](Creational/FactoryMethod)
-* [SimpleFactory](Creational/SimpleFactory)
+* [AbstractFactory](Creational/AbstractFactory) [:notebook:](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* [FactoryMethod](Creational/FactoryMethod) [:notebook:](https://en.wikipedia.org/wiki/Factory_method_pattern)
+* [SimpleFactory](Creational/SimpleFactory) 
 
 ### [Structural](Structural)
 
-* [Bridge](Structural/Bridge)
-* [Facade](Structural/Facade)
-* [Proxy](Structural/Proxy)
+* [Bridge](Structural/Bridge) [:notebook:](https://en.wikipedia.org/wiki/Bridge_pattern)
+* [Facade](Structural/Facade) [:notebook:](https://en.wikipedia.org/wiki/Facade_pattern)
+* [Proxy](Structural/Proxy) [:notebook:](https://en.wikipedia.org/wiki/Proxy_pattern)
 
 ### [Behavioral](Behavioral)
 
-* [Observer](Behavioral/Observer)
-* [Strategy](Behavioral/Strategy)
+* [Observer](Behavioral/Observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern)
+* [Strategy](Behavioral/Strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern)
+* [Memento](Behavioral/Memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern)
 
 ## Reference github
  - [typescript-must-know by wahengchang](https://github.com/wahengchang/typescript-must-know)

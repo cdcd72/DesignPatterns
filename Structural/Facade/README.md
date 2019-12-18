@@ -22,4 +22,3 @@ $ npm run test Facade
 
 ## 參考文章
  - [外觀模式 Facade Pattern](https://dotblogs.com.tw/jesperlai/2018/04/15/153646)
- - [Software design pattern](https://en.wikipedia.org/wiki/Software_design_pattern)
