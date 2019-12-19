@@ -28,6 +28,7 @@ $ npm run build
 * [AbstractFactory](Creational/AbstractFactory) [:notebook:](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
 * [FactoryMethod](Creational/FactoryMethod) [:notebook:](https://en.wikipedia.org/wiki/Factory_method_pattern)
 * [SimpleFactory](Creational/SimpleFactory) 
+* [Prototype](Creational/Prototype) [:notebook:](https://en.wikipedia.org/wiki/Prototype_pattern)
 
 ### [Structural](Structural)
 
