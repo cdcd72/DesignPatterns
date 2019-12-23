@@ -26,21 +26,35 @@ $ npm run build
 ### [Creational](Creational)
 
 * [AbstractFactory](Creational/AbstractFactory) [:notebook:](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
+* Builder 
 * [FactoryMethod](Creational/FactoryMethod) [:notebook:](https://en.wikipedia.org/wiki/Factory_method_pattern)
-* [SimpleFactory](Creational/SimpleFactory) 
 * [Prototype](Creational/Prototype) [:notebook:](https://en.wikipedia.org/wiki/Prototype_pattern)
+* [SimpleFactory](Creational/SimpleFactory) 
+* Singleton 
 
 ### [Structural](Structural)
 
+* Adapter 
 * [Bridge](Structural/Bridge) [:notebook:](https://en.wikipedia.org/wiki/Bridge_pattern)
+* Composite
+* [Decorator](Structural/Decorator) [:notebook:](https://en.wikipedia.org/wiki/Decorator_pattern)
 * [Facade](Structural/Facade) [:notebook:](https://en.wikipedia.org/wiki/Facade_pattern)
+* Flyweight 
 * [Proxy](Structural/Proxy) [:notebook:](https://en.wikipedia.org/wiki/Proxy_pattern)
 
 ### [Behavioral](Behavioral)
 
-* [Observer](Behavioral/Observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern)
-* [Strategy](Behavioral/Strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern)
+* Chain of responsibility 
+* Command 
+* Interpreter 
+* Iterator
+* Mediator
 * [Memento](Behavioral/Memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern)
+* [Observer](Behavioral/Observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern)
+* State
+* [Strategy](Behavioral/Strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern)
+* Template method
+* Visitor
 
 ## Reference github
  - [typescript-must-know by wahengchang](https://github.com/wahengchang/typescript-must-know)
