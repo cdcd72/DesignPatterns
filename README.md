@@ -44,7 +44,7 @@ $ npm run build
 
 ### [Behavioral](Behavioral)
 
-* Chain of responsibility 
+* [Chain of responsibility](Behavioral/ChainOfResponsibility) [:notebook:](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
 * Command 
 * Interpreter 
 * Iterator
