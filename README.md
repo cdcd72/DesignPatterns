@@ -30,7 +30,7 @@ $ npm run build
 * [FactoryMethod](Creational/FactoryMethod) [:notebook:](https://en.wikipedia.org/wiki/Factory_method_pattern)
 * [Prototype](Creational/Prototype) [:notebook:](https://en.wikipedia.org/wiki/Prototype_pattern)
 * [SimpleFactory](Creational/SimpleFactory) 
-* Singleton 
+* [Singleton](Creational/Singleton) [:notebook:](https://en.wikipedia.org/wiki/Singleton_pattern)
 
 ### [Structural](Structural)
 
