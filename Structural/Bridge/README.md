@@ -9,9 +9,9 @@
 ![Image](https://i.imgur.com/3yWCTyV.png)
 
 ## 值得注意什麼？
-- 將**實作跟介面鬆綁**(仔細觀察 ConcreteRemoteControl 實作 on, off, setChannel...等方法，其實方法命名上可有不同，意指方法名稱並不會依賴在 TvFunction 介面，因為我並不在意其它各自廠商如何去實作這些方法，能用就好...)
-- 抽象跟實作可以**各自擴充**，不影響雙方
-- 具體的抽象類別(ConcreteRemoteControl)實作，不會影響 Sony(SonyControl) 及 Samsung(SamsungControl) 各自的實作
+- 將**實作跟介面鬆綁**(仔細觀察 ConcreteRemoteControl 實作 on, off, setChannel...等方法，其實方法命名上可有不同，意指方法名稱並不會依賴在 TvFunction 介面，因為我並不在意其它各自廠商如何去實作這些方法，能用就好...)。
+- 抽象跟實作可以**各自擴充**，不影響雙方。
+- 具體的抽象類別(ConcreteRemoteControl)實作，不會影響 Sony(SonyControl) 及 Samsung(SamsungControl) 各自的實作。
 
 ## 測試
 ```

@@ -12,11 +12,11 @@
 ![Image](https://i.imgur.com/ZFigaKC.png)
 
 ## 值得注意什麼？
-- 職責上分為 Originator, Memento, Caretaker(使類別權責單一化且好維護)
+- 職責上分為 Originator, Memento, Caretaker(使類別權責單一化且好維護)。
    - Originator：保留內部狀態的物件(ex. 遊戲角色狀態、文書編輯器文字...)
    - Memento：保留 Originator 內部狀態的物件(ex. 存檔資料...)
    - Caretaker：管理 Memento 的物件(ex. 存檔資料管理...)
-- 儲存物件狀態及其還原狀態機制
+- 儲存物件狀態及其還原狀態機制。
 
 ## 測試
 ```
