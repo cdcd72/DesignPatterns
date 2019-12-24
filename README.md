@@ -34,7 +34,7 @@ $ npm run build
 
 ### [Structural](Structural)
 
-* Adapter 
+* [Adapter](Structural/Adapter) [:notebook:](https://en.wikipedia.org/wiki/Adapter_pattern)
 * [Bridge](Structural/Bridge) [:notebook:](https://en.wikipedia.org/wiki/Bridge_pattern)
 * Composite
 * [Decorator](Structural/Decorator) [:notebook:](https://en.wikipedia.org/wiki/Decorator_pattern)
