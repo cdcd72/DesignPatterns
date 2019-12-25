@@ -1,6 +1,6 @@
 import { MilkTea, BlackTea, Tapioca, Flan } from '../Decorator';
 
-describe('Beverage Shop Scenario', () => {
+describe('Beverage shop scenario', () => {
   // 請給我一杯珍珠奶茶
   it('Please give me one bubble tea...', () => {
     let milkTeaWithTapioca = new Tapioca(new MilkTea());

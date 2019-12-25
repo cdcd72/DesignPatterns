@@ -1,7 +1,7 @@
 import { Plug } from '../Adapter';
 import { Concrete220vWallSocket, Concrete110vPlug, VoltageAdapter } from '../Adapter';
 
-describe('Voltage Adapter Scenario...', () => {
+describe('Voltage adapter scenario...', () => {
 
   // 一般使用情況...
   it('In normal situation...', () => {

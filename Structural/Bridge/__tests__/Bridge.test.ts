@@ -1,6 +1,6 @@
 import { ConcreteRemoteControl, SonyControl, SamsungControl } from '../Bridge';
 
-describe('ConcreteRemoteControl Scenario', () => {
+describe('ConcreteRemoteControl scenario', () => {
   // Sony 遙控器
   it('Sony Television', () => {
     let sonyControl = new SonyControl();

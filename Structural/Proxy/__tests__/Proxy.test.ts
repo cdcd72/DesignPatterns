@@ -1,6 +1,6 @@
 import { Studio, Sponsor } from '../Proxy';
 
-describe('Get Sponsored Scenario...', () => {
+describe('Get sponsored scenario...', () => {
   // 工商費合理，因為高於 2 萬
   it('Acceptable cost...', () => {
     let studio = new Studio();

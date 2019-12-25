@@ -1,6 +1,6 @@
 import { Employee, OriginalApplication, FacadeApplication } from '../Facade';
 
-describe('Get Year-End Bonus...', () => {
+describe('Get year-end bonus...', () => {
   // 原始情況
   it('Original', () => {
     let employee = new Employee();
