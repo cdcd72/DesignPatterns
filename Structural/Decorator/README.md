@@ -7,14 +7,14 @@
 
 ## 思考方向？
 1. 隨配料增加而增加類別...
-![Image](https://i.imgur.com/KNiXSQl.png)
+![Image](uml/think.1.jpg)
     - 配料越多則子類別越多，很難維護...
 2. 加配料這件事往上提升到父類別(欲繼承類別)...
-![Image](https://i.imgur.com/8LsOg5p.png)
+![Image](uml/think.2.jpg)
     - 父類別若有新需求就會異動，破壞開放封閉原則...
     - 導致某些不需要使用的方法存於子類別，以子類別來看屬於不穩定因素(你應該不會想在咖啡裡面加珍珠吧)...
 ## 類別圖
-![Image](https://i.imgur.com/xFh6QBi.png)
+![Image](uml/example.jpg)
 
 ## 值得注意什麼？
 - 裝飾者**繼承**被裝飾者，為的是**擁有相同的型態，而不是相同的行為**。

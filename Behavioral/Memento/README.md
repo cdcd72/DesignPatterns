@@ -9,7 +9,7 @@
 文書編輯器(Editor)的「上一步」功能。
 
 ## 類別圖
-![Image](https://i.imgur.com/ZFigaKC.png)
+![Image](uml/example.jpg)
 
 ## 值得注意什麼？
 - 職責上分為 Originator, Memento, Caretaker(使類別權責單一化且好維護)。

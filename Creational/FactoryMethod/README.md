@@ -9,7 +9,7 @@
 若以**開啟資料庫連線**為例子，然而我**並不是很在意開啟連線的是Oracle還是MsSqlServer(以資料存取來說)**，因為我**只需要開啟資料庫連線這件事**。
 
 ## 類別圖
-![Image](https://i.imgur.com/QlSSUkU.png)
+![Image](uml/example.jpg)
 
 ## 值得注意什麼？
 ### 優點

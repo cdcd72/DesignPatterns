@@ -9,7 +9,7 @@
 - 如果這個需求**非常不明確，則可能交由系統分析師(System Analyst)來處理**
 
 ## 類別圖
-![Image](https://i.imgur.com/VP3OhTx.png)
+![Image](uml/example.jpg)
 
 ## 值得注意什麼？
 - 當有**多個物件 (處理需求的方式) 都有機會能處理相同請求時 (新來的需求)**，可以參考此模式。

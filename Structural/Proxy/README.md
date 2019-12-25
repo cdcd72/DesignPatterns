@@ -7,7 +7,7 @@
 (可能是工作室、經紀公司決定後才往下派給 Youtuber 去執行，甚至是會衡量工商費用多寡...)
 
 ## 類別圖
-![Image](https://i.imgur.com/Vggx6Nw.png)
+![Image](uml/example.jpg)
 
 ## 值得注意什麼？
 - 專注在「**控制物件的存取**」上。

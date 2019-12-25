@@ -10,9 +10,9 @@
 若我想訓練一名士兵，但也請把裝備一併產生出來。(帶有裝備的士兵)
 
 ## 類別圖
-![Image](https://i.imgur.com/9PlCJRR.png)
-![Image](https://i.imgur.com/jVc2XZ5.png)
-![Image](https://i.imgur.com/2sB72nC.png)
+![Image](uml/example.1.jpg)
+![Image](uml/example.2.jpg)
+![Image](uml/example.3.jpg)
 
 ## 值得注意什麼？
 ### 優點

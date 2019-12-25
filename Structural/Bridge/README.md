@@ -6,7 +6,7 @@
 以遙控器為例子，我想做一支可以控制 Sony 及 Samsung 電視的遙控器，但各家廠商都有各自的 API 實作(on, off, setChannel...)，我想容納他們已寫好的功能以及我需要自己寫額外擴充功能，兩者對於功能實作上要能並進又不能互相干擾，或許**橋接模式**就能派上用場！
 
 ## 類別圖
-![Image](https://i.imgur.com/3yWCTyV.png)
+![Image](uml/example.jpg)
 
 ## 值得注意什麼？
 - 將**實作跟介面鬆綁**(仔細觀察 ConcreteRemoteControl 實作 on, off, setChannel...等方法，其實方法命名上可有不同，意指方法名稱並不會依賴在 TvFunction 介面，因為我並不在意其它各自廠商如何去實作這些方法，能用就好...)。

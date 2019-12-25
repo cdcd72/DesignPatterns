@@ -6,9 +6,9 @@
 以計算員工年終獎金為例子，將計算薪資及績效獎金兩件事分開。
 
 ## 類別圖
-![Image](https://i.imgur.com/MXHoKhu.png)
+![Image](uml/think.1.jpg)
 ---
-![Image](https://i.imgur.com/BLbysvc.png)
+![Image](uml/example.jpg)
 
 ## 值得注意什麼？
 - 假設需要很多**子系統互動**來完成一件事，可以參考此模式。

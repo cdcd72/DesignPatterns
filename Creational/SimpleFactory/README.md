@@ -6,7 +6,7 @@
 若以**動物收容所**為例子，我可以**決定我是要認養貓還是狗**，但貓和狗**本質上均是動物**。
 
 ## 類別圖
-![Image](https://i.imgur.com/6VuptaS.png)
+![Image](uml/example.jpg)
 
 ## 值得注意什麼？
 ### 優點

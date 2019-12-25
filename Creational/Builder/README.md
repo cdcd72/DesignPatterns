@@ -10,10 +10,10 @@
 
 ## 類別圖
 ### 簡化
-![Image](https://imgur.com/7RAFn0V.png)
+![Image](uml/simple.example.jpg)
 ### 嚴謹
-![Image](https://imgur.com/UMlBsV2.png)
-![Image](https://imgur.com/rsDGFF2.png)
+![Image](uml/strict.example.1.jpg)
+![Image](uml/strict.example.2.jpg)
 
 ## 值得注意什麼？
 - 將整個複雜物件的產生過程封裝起來，讓客戶端不能影響物件建立的步驟(物件建立這件事對客戶端是隱藏的)。

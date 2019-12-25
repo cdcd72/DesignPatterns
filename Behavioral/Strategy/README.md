@@ -6,7 +6,7 @@
 以寶可夢對戰為例子，面對不同寶可夢的招式時，適時改變策略應對吧！
 
 ## 類別圖
-![Image](https://i.imgur.com/2wvfqZY.png)
+![Image](uml/example.jpg)
 
 ## 值得注意什麼？
 從類別圖看好像和 Simple Factory Pattern 很相似，但其實兩者關注的地方不一樣。
