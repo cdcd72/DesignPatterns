@@ -47,7 +47,7 @@ $ npm run build
 * [Chain of responsibility](Behavioral/ChainOfResponsibility) [:notebook:](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
 * Command 
 * Interpreter 
-* Iterator
+* [Iterator](Behavioral/Iterator) [:notebook:](https://en.wikipedia.org/wiki/Iterator_pattern)
 * Mediator
 * [Memento](Behavioral/Memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern)
 * [Observer](Behavioral/Observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern)
