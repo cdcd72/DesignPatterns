@@ -21,40 +21,42 @@ $ npm run build
 ```
 
 ## Patterns
-點擊 [:notebook:](http://en.wikipedia.org/wiki/Software_design_pattern) 可看到於維基百科(wikipedia)上關於 Patterns 完整的解釋。
+點擊 [:notebook:](http://en.wikipedia.org/wiki/Software_design_pattern) 可看到於維基百科(wikipedia)上關於 Patterns 完整的解釋。  
+
+:bookmark: 意指 Gangs of Four (GoF) Design Patterns 有提及之設計模式。
 
 ### [Creational](Creational)
 
-* [AbstractFactory](Creational/AbstractFactory) [:notebook:](https://en.wikipedia.org/wiki/Abstract_factory_pattern)
-* [Builder](Creational/Builder) [:notebook:](https://en.wikipedia.org/wiki/Builder_pattern)
-* [FactoryMethod](Creational/FactoryMethod) [:notebook:](https://en.wikipedia.org/wiki/Factory_method_pattern)
-* [Prototype](Creational/Prototype) [:notebook:](https://en.wikipedia.org/wiki/Prototype_pattern)
+* :bookmark: [AbstractFactory](Creational/AbstractFactory) [:notebook:](https://en.wikipedia.org/wiki/Abstract_factory_pattern) 
+* :bookmark: [Builder](Creational/Builder) [:notebook:](https://en.wikipedia.org/wiki/Builder_pattern) 
+* :bookmark: [FactoryMethod](Creational/FactoryMethod) [:notebook:](https://en.wikipedia.org/wiki/Factory_method_pattern) 
+* :bookmark: [Prototype](Creational/Prototype) [:notebook:](https://en.wikipedia.org/wiki/Prototype_pattern) 
 * [SimpleFactory](Creational/SimpleFactory) 
-* [Singleton](Creational/Singleton) [:notebook:](https://en.wikipedia.org/wiki/Singleton_pattern)
+* :bookmark: [Singleton](Creational/Singleton) [:notebook:](https://en.wikipedia.org/wiki/Singleton_pattern) 
 
 ### [Structural](Structural)
 
-* [Adapter](Structural/Adapter) [:notebook:](https://en.wikipedia.org/wiki/Adapter_pattern)
-* [Bridge](Structural/Bridge) [:notebook:](https://en.wikipedia.org/wiki/Bridge_pattern)
-* Composite
-* [Decorator](Structural/Decorator) [:notebook:](https://en.wikipedia.org/wiki/Decorator_pattern)
-* [Facade](Structural/Facade) [:notebook:](https://en.wikipedia.org/wiki/Facade_pattern)
-* Flyweight 
-* [Proxy](Structural/Proxy) [:notebook:](https://en.wikipedia.org/wiki/Proxy_pattern)
+* :bookmark: [Adapter](Structural/Adapter) [:notebook:](https://en.wikipedia.org/wiki/Adapter_pattern) 
+* :bookmark: [Bridge](Structural/Bridge) [:notebook:](https://en.wikipedia.org/wiki/Bridge_pattern) 
+* :bookmark: Composite 
+* :bookmark: [Decorator](Structural/Decorator) [:notebook:](https://en.wikipedia.org/wiki/Decorator_pattern) 
+* :bookmark: [Facade](Structural/Facade) [:notebook:](https://en.wikipedia.org/wiki/Facade_pattern) 
+* :bookmark: Flyweight 
+* :bookmark: [Proxy](Structural/Proxy) [:notebook:](https://en.wikipedia.org/wiki/Proxy_pattern) 
 
 ### [Behavioral](Behavioral)
 
-* [Chain of responsibility](Behavioral/ChainOfResponsibility) [:notebook:](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern)
-* Command 
-* Interpreter 
-* [Iterator](Behavioral/Iterator) [:notebook:](https://en.wikipedia.org/wiki/Iterator_pattern)
-* Mediator
-* [Memento](Behavioral/Memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern)
-* [Observer](Behavioral/Observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern)
-* State
-* [Strategy](Behavioral/Strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern)
-* Template method
-* Visitor
+* :bookmark: [Chain of responsibility](Behavioral/ChainOfResponsibility) [:notebook:](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern) 
+* :bookmark: Command 
+* :bookmark: Interpreter 
+* :bookmark: [Iterator](Behavioral/Iterator) [:notebook:](https://en.wikipedia.org/wiki/Iterator_pattern) 
+* :bookmark: Mediator 
+* :bookmark: [Memento](Behavioral/Memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern) 
+* :bookmark: [Observer](Behavioral/Observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern) 
+* :bookmark: State 
+* :bookmark: [Strategy](Behavioral/Strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern) 
+* :bookmark: Template method 
+* :bookmark: Visitor 
 
 ## Reference github
  - [typescript-must-know by wahengchang](https://github.com/wahengchang/typescript-must-know)
