@@ -52,6 +52,7 @@ $ npm run build
 * :bookmark: [Iterator](Behavioral/Iterator) [:notebook:](https://en.wikipedia.org/wiki/Iterator_pattern) 
 * :bookmark: Mediator 
 * :bookmark: [Memento](Behavioral/Memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern) 
+* [Null object](Behavioral/NullObject) [:notebook:](https://en.wikipedia.org/wiki/Null_object_pattern) 
 * :bookmark: [Observer](Behavioral/Observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern) 
 * :bookmark: State 
 * :bookmark: [Strategy](Behavioral/Strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern) 
