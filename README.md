@@ -38,7 +38,7 @@ $ npm run build
 
 * :bookmark: [Adapter](Structural/Adapter) [:notebook:](https://en.wikipedia.org/wiki/Adapter_pattern) 
 * :bookmark: [Bridge](Structural/Bridge) [:notebook:](https://en.wikipedia.org/wiki/Bridge_pattern) 
-* :bookmark: Composite 
+* :bookmark: [Composite](Structural/Composite) [:notebook:](https://en.wikipedia.org/wiki/Composite_pattern)
 * :bookmark: [Decorator](Structural/Decorator) [:notebook:](https://en.wikipedia.org/wiki/Decorator_pattern) 
 * :bookmark: [Facade](Structural/Facade) [:notebook:](https://en.wikipedia.org/wiki/Facade_pattern) 
 * :bookmark: Flyweight 
