@@ -1,7 +1,7 @@
-# DesignPatterns
+# Design Patterns
 Design Patterns 實作於 Typescript 上(To practice how design patterns implementation on TypeScript.)
 
-## Installation
+## 安裝步驟
  1. Clone this project
  ```
  $ git clone https://github.com/cdcd72/DesignPatterns.git
@@ -15,7 +15,7 @@ Design Patterns 實作於 Typescript 上(To practice how design patterns impleme
  $ npm install
  ```
 
-## Build javascript files(optional)
+## 編譯出 javascript 檔案(可選)
 ```
 $ npm run build
 ```
@@ -56,11 +56,11 @@ $ npm run build
 * :bookmark: [Observer](Behavioral/Observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern) 
 * :bookmark: State 
 * :bookmark: [Strategy](Behavioral/Strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern) 
-* :bookmark: Template method 
+* :bookmark: [Template method](Behavioral/TemplateMethod) [:notebook:](https://en.wikipedia.org/wiki/Template_method_pattern) 
 * :bookmark: Visitor 
 
-## Reference github
+## 參考 github
  - [typescript-must-know by wahengchang](https://github.com/wahengchang/typescript-must-know)
  
-## Reference article
+## 參考文章
  - [Using Jest with TypeScript](https://basarat.gitbooks.io/typescript/docs/testing/jest.html)
