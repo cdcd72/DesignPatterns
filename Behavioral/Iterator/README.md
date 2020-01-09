@@ -24,5 +24,5 @@ $ npm run test Iterator
  ## 參考文章
  - [反覆器模式 (Iterator Pattern)](http://corrupt003-design-pattern.blogspot.com/2016/07/iterator-pattern.html)
  - [Iterator Pattern](http://twmht.github.io/blog/posts/design-pattern/iterator.html)
- - [Iterator in TypeScript](https://refactoring.guru/design-patterns/iterator/typescript/example)
+ - [Iterator](https://refactoring.guru/design-patterns/iterator)
  - [\[Design Pattern\] Iterator 迭代器模式](https://ithelp.ithome.com.tw/articles/10224707) 

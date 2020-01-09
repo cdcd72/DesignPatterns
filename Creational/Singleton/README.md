@@ -19,4 +19,4 @@ $ npm run test Singleton
 
 ## 參考文章
  - [獨體模式 (Singleton Pattern)](http://corrupt003-design-pattern.blogspot.com/2016/06/singleton-pattern.html)
- - [Singleton in TypeScript](https://refactoring.guru/design-patterns/singleton/typescript/example)
+ - [Singleton](https://refactoring.guru/design-patterns/singleton)

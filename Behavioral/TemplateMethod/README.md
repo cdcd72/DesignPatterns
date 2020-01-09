@@ -28,5 +28,5 @@ $ npm run test TemplateMethod
 
 ## 參考文章
 - [樣板方法模式 (Template Method Pattern)](http://corrupt003-design-pattern.blogspot.com/2016/07/template-method-pattern.html)
-- [Template Method in TypeScript](https://refactoring.guru/design-patterns/template-method/typescript/example#lang-features)
+- [Template Method](https://refactoring.guru/design-patterns/template-method)
 - [亂談軟體設計（4）：Liskov Substitution Principle](http://teddy-chen-tw.blogspot.com/2012/01/4.html)

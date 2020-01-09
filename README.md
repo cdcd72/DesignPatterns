@@ -50,7 +50,7 @@ $ npm run build
 * :bookmark: [Command](Behavioral/Command) [:notebook:](https://en.wikipedia.org/wiki/Command_pattern)
 * :bookmark: Interpreter 
 * :bookmark: [Iterator](Behavioral/Iterator) [:notebook:](https://en.wikipedia.org/wiki/Iterator_pattern) 
-* :bookmark: Mediator 
+* :bookmark: [Mediator](Behavioral/Mediator) [:notebook:](https://en.wikipedia.org/wiki/Mediator_pattern) 
 * :bookmark: [Memento](Behavioral/Memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern) 
 * [Null object](Behavioral/NullObject) [:notebook:](https://en.wikipedia.org/wiki/Null_object_pattern) 
 * :bookmark: [Observer](Behavioral/Observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern) 
