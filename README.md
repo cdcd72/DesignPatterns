@@ -54,7 +54,7 @@ $ npm run build
 * :bookmark: [Memento](Behavioral/Memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern) 
 * [Null object](Behavioral/NullObject) [:notebook:](https://en.wikipedia.org/wiki/Null_object_pattern) 
 * :bookmark: [Observer](Behavioral/Observer) [:notebook:](https://en.wikipedia.org/wiki/Observer_pattern) 
-* :bookmark: State 
+* :bookmark: [State](Behavioral/State) [:notebook:](https://en.wikipedia.org/wiki/State_pattern) 
 * :bookmark: [Strategy](Behavioral/Strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern) 
 * :bookmark: [Template method](Behavioral/TemplateMethod) [:notebook:](https://en.wikipedia.org/wiki/Template_method_pattern) 
 * :bookmark: Visitor 

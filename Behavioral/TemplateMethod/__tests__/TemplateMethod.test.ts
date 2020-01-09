@@ -2,6 +2,7 @@ import { SomeAlgorithm } from '../TemplateMethod';
 
 describe('Running algorithm scenario', () => {
 
+  // 不含掛鉤操作
   it('Without hook operation...', () => {
 
     const someAlgorithm = new SomeAlgorithm();
@@ -10,9 +11,9 @@ describe('Running algorithm scenario', () => {
     someAlgorithm.executeSteps();
   });
 
+  // 需含掛鉤操作
   it('With hook operation...', () => {
-
-    // 需含掛鉤操作
+    
     const withHookOperation = true;
 
     const someAlgorithm = new SomeAlgorithm(withHookOperation);
