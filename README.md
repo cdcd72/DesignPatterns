@@ -57,7 +57,7 @@ $ npm run build
 * :bookmark: [State](Behavioral/State) [:notebook:](https://en.wikipedia.org/wiki/State_pattern) 
 * :bookmark: [Strategy](Behavioral/Strategy) [:notebook:](https://en.wikipedia.org/wiki/Strategy_pattern) 
 * :bookmark: [Template method](Behavioral/TemplateMethod) [:notebook:](https://en.wikipedia.org/wiki/Template_method_pattern) 
-* :bookmark: Visitor 
+* :bookmark: [Visitor](Behavioral/Visitor) [:notebook:](https://en.wikipedia.org/wiki/Visitor_pattern) 
 
 ## 參考 github
  - [typescript-must-know by wahengchang](https://github.com/wahengchang/typescript-must-know)
