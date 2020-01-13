@@ -41,7 +41,7 @@ $ npm run build
 * :bookmark: [Composite](Structural/Composite) [:notebook:](https://en.wikipedia.org/wiki/Composite_pattern)
 * :bookmark: [Decorator](Structural/Decorator) [:notebook:](https://en.wikipedia.org/wiki/Decorator_pattern) 
 * :bookmark: [Facade](Structural/Facade) [:notebook:](https://en.wikipedia.org/wiki/Facade_pattern) 
-* :bookmark: Flyweight 
+* :bookmark: [Flyweight](Structural/Flyweight) [:notebook:](https://en.wikipedia.org/wiki/Flyweight_pattern) 
 * :bookmark: [Proxy](Structural/Proxy) [:notebook:](https://en.wikipedia.org/wiki/Proxy_pattern) 
 
 ### [Behavioral](Behavioral)
