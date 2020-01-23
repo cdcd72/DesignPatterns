@@ -2,6 +2,7 @@ import { Context, Expression, TerminalExpression, OrExpression, AndExpression } 
 
 describe('Interpret context scenario', () => {
 
+  // 仍單身
   it('Still single...', () => {
 
     const context1 = new Context('Neil and Amy this year still single.');
@@ -15,13 +16,14 @@ describe('Interpret context scenario', () => {
     expect(isSingle.interpret(context2.getContext())).toBe(false);
   });
 
+  // 已結婚
   it('Get married...', () => {
 
     const context = new Context('Neil and Amy this year still single, but Stock get married to Candy.');
 
-    const stock = new TerminalExpression("Stock"); 
+    const candy = new TerminalExpression("Candy"); 
     const married = new TerminalExpression("married"); 
-    const isMarried = new AndExpression(stock, married);
+    const isMarried = new AndExpression(candy, married);
 
     expect(isMarried.interpret(context.getContext())).toBe(true);
   });

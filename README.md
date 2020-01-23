@@ -48,7 +48,7 @@ $ npm run build
 
 * :bookmark: [Chain of responsibility](Behavioral/ChainOfResponsibility) [:notebook:](https://en.wikipedia.org/wiki/Chain-of-responsibility_pattern) 
 * :bookmark: [Command](Behavioral/Command) [:notebook:](https://en.wikipedia.org/wiki/Command_pattern)
-* :bookmark: Interpreter 
+* :bookmark: [Interpreter](Behavioral/Interpreter) [:notebook:](https://en.wikipedia.org/wiki/Interpreter_pattern)
 * :bookmark: [Iterator](Behavioral/Iterator) [:notebook:](https://en.wikipedia.org/wiki/Iterator_pattern) 
 * :bookmark: [Mediator](Behavioral/Mediator) [:notebook:](https://en.wikipedia.org/wiki/Mediator_pattern) 
 * :bookmark: [Memento](Behavioral/Memento) [:notebook:](https://en.wikipedia.org/wiki/Memento_pattern) 
