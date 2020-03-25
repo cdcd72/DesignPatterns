@@ -63,4 +63,4 @@ $ npm run build
  - [typescript-must-know by wahengchang](https://github.com/wahengchang/typescript-must-know)
  
 ## 參考文章
- - [Using Jest with TypeScript](https://basarat.gitbooks.io/typescript/docs/testing/jest.html)
+ - [Using Jest with TypeScript](https://basarat.gitbook.io/typescript/intro-1/jest)
