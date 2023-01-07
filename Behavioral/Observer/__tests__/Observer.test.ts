@@ -58,7 +58,7 @@ describe('Subscriber mechanism', () => {
     try {
       // 學生臨時取消了訂閱(但是學生根本沒訂閱)
       fastLearnABC.unsubscribed(student);
-    } catch (error) {
+    } catch (error: any) {
       expect(error.message).toBe('Subscriber not found!');
     }
   });
